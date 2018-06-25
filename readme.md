@@ -1,4 +1,4 @@
-# Hierachical softmax layer
+# Hierarchical softmax layer
 
 Hierachical softmax layer can be implemented with a combination of Slice, Tile, and Eltwise layers. This hierarchisoftmax layer combines them together.
 
