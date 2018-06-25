@@ -1,6 +1,6 @@
 # Hierarchical softmax layer
 
-Hierachical softmax layer can be implemented with a combination of Slice, Tile, and Eltwise layers. This hierarchisoftmax layer combines them together.
+Hierarchical softmax layer can be implemented with a combination of Slice, Tile, and Eltwise layers. This hierarchisoftmax layer combines them together.
 
 The hierarchisoftmax layer has one parameters which provides the idex of its parent caetgory (idex in higher level softmax output).
 
